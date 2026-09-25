@@ -6,7 +6,7 @@ Berikut adalah panduan lengkap dari awal instalasi hingga cara menggunakan fitur
 
 ---
 
-## 🛠️ 1. Persiapan Awal (Instalasi & Menjalankan Aplikasi)
+## 1. Persiapan Awal (Instalasi & Menjalankan Aplikasi)
 
 Jika proyek ini baru saja disiapkan di komputer baru, ikuti langkah-langkah berikut:
 
@@ -34,7 +34,7 @@ Jika proyek ini baru saja disiapkan di komputer baru, ikuti langkah-langkah beri
 
 ---
 
-## 🚀 2. Panduan Penggunaan Aplikasi (Langkah demi Langkah)
+## 2. Panduan Penggunaan Aplikasi (Langkah demi Langkah)
 
 Untuk mendapatkan hasil yang optimal, ikuti alur penggunaan (workflow) berikut:
 
@@ -72,7 +72,7 @@ Untuk memastikan saran AI sejalan dengan pandangan manajemen keuangan perusahaan
 
 ---
 
-## 💡 Tips & Trik
+## Tips & Trik
 
 1. **Logo Perusahaan:** Jika Anda ingin mengubah logo yang muncul di Sidebar Web maupun di dalam Laporan Excel, cukup timpa file `logo.png` yang berada di dalam folder `public/`.
 2. **Keamanan Data:** Lakukan *Backup* Database (MySQL) secara berkala pada akhir bulan untuk mencegah hilangnya data pembukuan.
@@ -80,4 +80,4 @@ Untuk memastikan saran AI sejalan dengan pandangan manajemen keuangan perusahaan
 
 ---
 
-Selamat menggunakan Sistem Manajemen Keuangan Berbasis AI! ✨
+Selamat menggunakan Sistem Manajemen Keuangan Berbasis AI!
